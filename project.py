@@ -4,7 +4,7 @@ init()
 
 def create_board(array):
 		print "cell#: 0 1 2 3 4 5 6 7"
-		print "row 0:",Back.WHITE+str(array[0][0]),array[0][1],array[0][2],array[0][3],array[0][4],array[0][5],array[0][6],array[0][7]
+		print "row 0:",array[0][0],array[0][1],array[0][2],array[0][3],array[0][4],array[0][5],array[0][6],array[0][7]
 		print "row 1:",array[1][0],array[1][1],array[1][2],array[1][3],array[1][4],array[1][5],array[1][6],array[1][7]
 		print "row 2:",array[2][0],array[2][1],array[2][2],array[2][3],array[2][4],array[2][5],array[2][6],array[2][7]
 		print "row 3:",array[3][0],array[3][1],array[3][2],array[3][3],array[3][4],array[3][5],array[3][6],array[3][7]		
